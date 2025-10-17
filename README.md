@@ -5,6 +5,8 @@
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="java logo"  />
